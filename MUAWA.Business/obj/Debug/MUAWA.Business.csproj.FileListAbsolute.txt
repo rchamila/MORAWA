@@ -1,0 +1,9 @@
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.Business.dll
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.Business.pdb
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.Common.dll
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.DataAccess.dll
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.Common.pdb
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.DataAccess.pdb
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\obj\Debug\MUAWA.Business.dll
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\obj\Debug\MUAWA.Business.pdb

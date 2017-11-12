@@ -1,0 +1,5 @@
+J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.DataAccess\bin\Debug\AlumniWeb.DataAccess.exe
+J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.DataAccess\bin\Debug\AlumniWeb.DataAccess.pdb
+J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.DataAccess\obj\x86\Debug\AlumniWeb.DataAccess.exe
+J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.DataAccess\obj\x86\Debug\AlumniWeb.DataAccess.pdb

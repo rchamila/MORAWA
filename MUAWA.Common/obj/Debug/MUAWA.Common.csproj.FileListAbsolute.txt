@@ -1,0 +1,5 @@
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\bin\Debug\MUAWA.Common.dll
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\bin\Debug\MUAWA.Common.pdb
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\obj\Debug\MUAWA.Common.dll
+J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\obj\Debug\MUAWA.Common.pdb
