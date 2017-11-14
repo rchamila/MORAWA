@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true" CodeFile="ContactUs.aspx.cs" Inherits="ContactUs" EnableViewState="false" %>
+<%@ page title="" language="C#" masterpagefile="~/AlumniWeb.master" autoeventwireup="true" inherits="ContactUs, App_Web_zilyvyac" enableviewstate="false" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <title>Contact Us</title>
@@ -6,10 +6,10 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="PageBody" Runat="Server">
 <div id="container">
   <div class="wrapper">
-  	<div class="col_2_b_c_1">
+     <!-- <div class="col_2_b_c_1">
     <div class="b_wrapper">
 		<h1 class="title u_l_title">Send a Message</h1>
-        <form id="Form1" runat="server">
+       <form id="Form1" runat="server">
         <div style="margin-left:150px; margin-bottom:10px;">
         <asp:Label ID="MSG" runat="server" Text="Label"></asp:Label>
         </div>
@@ -37,21 +37,22 @@
                     onclick="Send_Click" />
             </li>
         </ul>
-        </form>
+        </form> 
     </div>    
-    </div>
-    <div class="col_2_b_c_2">
+    </div> -->
+    <div class="col_2_b_c_1">
       <div class="b_wrapper">
         <h3 class="title u_l_title">Contact Details</h3>
 <%--        <p><strong>Tel:</strong> +94 112650301</p>
         <p><strong>Fax:</strong> +94112650622</p>--%>
-        <p><strong>Email: </strong><a href="mailto:moratuwa.university.alumni.wa@gmail.com" class="link">moratuwa.university.alumni.wa@gmail.com</a></p>
+        <p><strong>Email: </strong><a href="mailto:moratuwa.university.alumni.wa@gmail.com" class="link">moratuwa.university.alumni.wa@gmail.com</a> or <a href="mailto:contactmorawa@gmail.com" class="link">contactmorawa@gmail.com</a></p>
       </div>
       
     </div>
     <br class="clear" />
     <div class="img_frame">
-        <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=perth+&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=32.939885,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Perth+Western+Australia,+Australia&amp;ll=-31.953004,115.857469&amp;spn=0.275552,0.676346&amp;t=m&amp;z=11&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=perth+&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=32.939885,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Perth+Western+Australia,+Australia&amp;ll=-31.953004,115.857469&amp;spn=0.275552,0.676346&amp;t=m&amp;z=11" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=perth+&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=32.939885,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Perth+Western+Australia,+Australia&amp;ll=-31.953004,115.857469&amp;spn=0.275552,0.676346&amp;t=m&amp;z=11&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=perth+&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=32.939885,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Perth+Western+Australia,+Australia&amp;ll=-31.953004,115.857469&amp;spn=0.275552,0.676346&amp;t=m&amp;z=11" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+    	
     </div>
     
     

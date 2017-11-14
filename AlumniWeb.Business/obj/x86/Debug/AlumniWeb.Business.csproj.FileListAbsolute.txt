@@ -1,5 +1,0 @@
-J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.Business\bin\Debug\AlumniWeb.Business.exe
-J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.Business\bin\Debug\AlumniWeb.Business.pdb
-J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.Business\obj\x86\Debug\ResolveAssemblyReference.cache
-J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.Business\obj\x86\Debug\AlumniWeb.Business.exe
-J:\Projects\UOM - WA Alumni Web Site\Project\AlumniWeb.Business\obj\x86\Debug\AlumniWeb.Business.pdb

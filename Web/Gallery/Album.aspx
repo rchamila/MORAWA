@@ -1,5 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true"
-    CodeFile="Album.aspx.cs" Inherits="Gallery_Album" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/AlumniWeb.master" autoeventwireup="true" inherits="Gallery_Album, App_Web_t2puuarg" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
  <title>Gallery</title>

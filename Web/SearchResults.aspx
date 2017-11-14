@@ -1,5 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true"
-    CodeFile="SearchResults.aspx.cs" Inherits="SearchResults" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/AlumniWeb.master" autoeventwireup="true" inherits="SearchResults, App_Web_zilyvyac" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
  <title>Search</title>

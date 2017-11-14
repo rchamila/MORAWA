@@ -1,5 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true"
-    CodeFile="NewsAndEvents.aspx.cs" Inherits="NewsAndEvents" %>
+<%@ page title="" language="C#" masterpagefile="~/AlumniWeb.master" autoeventwireup="true" inherits="NewsAndEvents, App_Web_d4hxodt5" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>News & Events</title>
@@ -44,7 +43,7 @@
                     <ul class="headlines" id="eventHeadlines">
                         <%if (Session["events"] != null)
                           {
-                              List<MUAWA.Common.BusinessObjects.NewsAndEventsItem> eventsList = (List<MUAWA.Common.BusinessObjects.NewsAndEventsItem>)Session["events"];
+                              List<MUAWA.Common.BusinessObjects.NewsAndEventsItem> eventsList = (List<MUAWA.Common.BusinessObjects.NewsAndEventsItem>)Session["news"];
 
                               foreach (MUAWA.Common.BusinessObjects.NewsAndEventsItem events in eventsList)
                               {
