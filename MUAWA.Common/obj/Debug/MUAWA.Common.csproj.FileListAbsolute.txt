@@ -3,3 +3,8 @@ J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\bin\Debug\MUAWA.Common
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\obj\Debug\ResolveAssemblyReference.cache
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\obj\Debug\MUAWA.Common.dll
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Common\obj\Debug\MUAWA.Common.pdb
+D:\Git\MORAWA\MUAWA.Common\bin\Debug\MUAWA.Common.dll
+D:\Git\MORAWA\MUAWA.Common\bin\Debug\MUAWA.Common.pdb
+D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.csproj.CoreCompileInputs.cache
+D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.dll
+D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.pdb

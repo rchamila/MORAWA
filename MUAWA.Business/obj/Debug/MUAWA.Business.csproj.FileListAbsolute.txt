@@ -7,3 +7,13 @@ J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\bin\Debug\MUAWA.Data
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\obj\Debug\ResolveAssemblyReference.cache
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\obj\Debug\MUAWA.Business.dll
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.Business\obj\Debug\MUAWA.Business.pdb
+D:\Git\MORAWA\MUAWA.Business\bin\Debug\MUAWA.Business.dll
+D:\Git\MORAWA\MUAWA.Business\bin\Debug\MUAWA.Business.pdb
+D:\Git\MORAWA\MUAWA.Business\bin\Debug\MUAWA.Common.dll
+D:\Git\MORAWA\MUAWA.Business\bin\Debug\MUAWA.DataAccess.dll
+D:\Git\MORAWA\MUAWA.Business\bin\Debug\MUAWA.Common.pdb
+D:\Git\MORAWA\MUAWA.Business\bin\Debug\MUAWA.DataAccess.pdb
+D:\Git\MORAWA\MUAWA.Business\obj\Debug\MUAWA.Business.csprojResolveAssemblyReference.cache
+D:\Git\MORAWA\MUAWA.Business\obj\Debug\MUAWA.Business.csproj.CoreCompileInputs.cache
+D:\Git\MORAWA\MUAWA.Business\obj\Debug\MUAWA.Business.dll
+D:\Git\MORAWA\MUAWA.Business\obj\Debug\MUAWA.Business.pdb

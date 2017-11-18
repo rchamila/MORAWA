@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 html {
     height: 100%;
@@ -408,6 +408,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#777777', end
 	width:28%;
 	float:right;
 	}
+
+.col_2_d_c_1 {
+    width: 50%;
+    float: left;
+}
+
+.col_2_d_c_2 {
+    width: 50%;
+    float: right;
+}
 	
 h1{
 	margin:0;

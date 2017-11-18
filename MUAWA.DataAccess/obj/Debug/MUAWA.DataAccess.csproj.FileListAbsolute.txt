@@ -5,3 +5,11 @@ J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.DataAccess\bin\Debug\MUAWA.Co
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.DataAccess\obj\Debug\ResolveAssemblyReference.cache
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.DataAccess\obj\Debug\MUAWA.DataAccess.dll
 J:\Projects\UOM - WA Alumni Web Site\Project\MUAWA.DataAccess\obj\Debug\MUAWA.DataAccess.pdb
+D:\Git\MORAWA\MUAWA.DataAccess\bin\Debug\MUAWA.DataAccess.dll
+D:\Git\MORAWA\MUAWA.DataAccess\bin\Debug\MUAWA.DataAccess.pdb
+D:\Git\MORAWA\MUAWA.DataAccess\bin\Debug\MUAWA.Common.dll
+D:\Git\MORAWA\MUAWA.DataAccess\bin\Debug\MUAWA.Common.pdb
+D:\Git\MORAWA\MUAWA.DataAccess\obj\Debug\MUAWA.DataAccess.csprojResolveAssemblyReference.cache
+D:\Git\MORAWA\MUAWA.DataAccess\obj\Debug\MUAWA.DataAccess.csproj.CoreCompileInputs.cache
+D:\Git\MORAWA\MUAWA.DataAccess\obj\Debug\MUAWA.DataAccess.dll
+D:\Git\MORAWA\MUAWA.DataAccess\obj\Debug\MUAWA.DataAccess.pdb

@@ -1,4 +1,4 @@
-<%@ page title="" language="C#" masterpagefile="~/AlumniWeb.master" autoeventwireup="true" inherits="ContactUs, App_Web_zilyvyac" enableviewstate="false" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true" CodeFile="ContactUs.aspx.cs" Inherits="ContactUs" EnableViewState="false" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <title>Contact Us</title>

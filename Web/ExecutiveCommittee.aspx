@@ -1,4 +1,5 @@
-<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true" Inherits="ExecutiveCommittee, App_Web_zilyvyac" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true" CodeFile="ExecutiveCommittee.aspx.cs" Inherits="ExecutiveCommittee" %>
+
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Executive Committee</title>
