@@ -1,61 +1,110 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AlumniWeb.master" AutoEventWireup="true" CodeFile="Members.aspx.cs" Inherits="Members" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Members</title>
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="PageBody" Runat="Server">
-<div id="container">
-    <div class="wrapper">
+<asp:Content ID="Content2" ContentPlaceHolderID="PageBody" runat="Server">
+    <div id="container">
+        <div class="wrapper">
 
-        <div class="f_w_container">
-            <div class="b_wrapper">
-                <h1 class="title u_l_title">Member’s Forum</h1>
-              
+            <div class="f_w_container">
+                <div class="b_wrapper">
+                    <h1 class="title u_l_title">Member’s Forum</h1>
+
+                </div>
+
             </div>
 
-        </div>
+            <div class="col_1_full">
+                <div class="b_wrapper">
+                    <h3 class="title u_l_title">ELIGIBILITY FOR THE MEMBERSHIP</h3>
+                   
+                    <br />
+                    <p>Any person who is qualified under the following three categories is eligible to apply to become a member.</p>
+                    <br />
+                    <p><b>Full Member:</b> Resident on or over 18 years of age, of Western Australia;</p>
+                    <br />
+                    <ul class="headlines">
+                        <li>Who are past students, current and former staff and those who had/have
+registered for a course of the University as verifiable through the registers
+of the University. </li>
+                        <li>those who were members of the group “The University of Moratuwa
+Alumni Association Western Australia” by the date of first AGM.</li>
 
-        <div class="col_2_d_c_1">
-             <div class="b_wrapper">
-                    <h3 class="title u_l_title">
-                        Member Registration</h3><br /><br />
-                 <p>Thank you for your interest in The Alumni Association of the University of Moratuwa in Western Australia Incorporated. This application is to be completed by individuals who are applying to become a member of MORAWA.</p><br />
-                 <p>Before continuing with your application, please note the following:</p><br />
-                 <ul class="headlines">
-                <li>Applicants must be a graduate or a lecturer in University of Moratuwa in order to be eligible to join Alumni Association of the University of Moratuwa in Western Australia </li>
-                     <li>Membership fees is $30 per year. This can be paid in cash or credited to the account of Treasurer</li>
-                     <li>All the information you provide on this application must be true and accurate</li>
-                        <li>Two referees who are full members of the association needs to sign the registration form.</li>  
-                </ul><br />
-                The member registration from can be downloaded from <a href="" >here</a> 
-                   and email the filled form to <a href="maito:morawa@gmail.com" >morawa@gmail.com</a> <br /><br />
-             </div>
-        </div>
-        <div class="col_2_d_c_2">
-             <div class="b_wrapper">
-                    <h3 class="title u_l_title">
-                        Member Benefits</h3><br /><br />
-                <p>The Alumni Association of the University of Moratuwa provides many benefits to its members and the community in both Sri Lanka and Australia
+                    </ul>
+                    <br />
+                    <p>
+                        <b>Honorary Member: </b>The honorary membership of the Association can be
+conferred by the decision of committee to;
                     </p>
-                 <p>
-                    The some of the benefits provided to members are :</p> 
-                 <ul class="headlines">
+                    <br />
+                    <ul class="headlines">
+                        <li>Chancellor and Vice Chancellor of the University; </li>
+                        <li>Former Chancellors and former Vice Chancellors who are residents of
+Western Australia;</li>
+                        <li>Former University Council members, Honorary Graduates, former
+academic staff who have served the University for more than 10 years
+and who are residents of Western Australia; </li>
+                        <li>Any other person who has rendered a distinguished service to the
+University who are residents of Western Australia. </li>
+                    </ul>
+                    <br />
+                    <p><b>Family Member:</b> Resident of Western Australia who are aged 18 years or above
+and are spouse and children of;</p>
+                    <br />
+                    <ul class="headlines">
+                        <li> A full member; or </li>
+                        <li> A honorary member; or</li>
+                        <li>A deceased member or a deceased person who was eligible for the full
+membership under sub rule (1)(a).</li>
 
-                     <li>The welcome program for the new migrants to Austrailia from Sri Lanka  </li>
-                     <li>The carier guidence program for the job searchers  </li>
-                     <li>Provide support for new comers by providing the essential furnitures. The current list of availble furniture list can be found <a href="" >here</a></li>
-                 </ul><br />
-                   Please contact <a href="maito:morawa@gmail.com" >morawa@gmail.com</a>
-                 if you require more details regarding the member benefits  <br /><br /><br /><br />
+                    </ul> <br />
+                    The membership form can be downloaded from <a href="Membership_Application_Form_2017_v1.pdf">here</a> and email the filled form to  
+                   <a href="maito:moratuwa.university.alumni.wa@gmail.com">moratuwa.university.alumni.wa@gmail.com</a> or <a href="maito:contactmorawa@gmail.com">contactmorawa@gmail.com</a>
+                    <br />
+                    <br />
+                </div>
+            </div>
+            <div class="col_1_full">
+                <div class="b_wrapper">
+                    <h3 class="title u_l_title">Member Benefits</h3>
+                   
+                    <br />
+                    <p>
+                        The Alumni Association of the University of Moratuwa provides many benefits to its members and the community in both Sri Lanka and Australia
+                    </p>
+                    <p>
+                        The some of the benefits provided to members are :
+                    </p>
+                    <ul class="headlines">
 
-             </div>
-            
-               
-             
+                        <li>The welcome program for the new migrants to Austrailia from Sri Lanka  </li>
+                        <li>The carier guidence program for the job searchers  </li>
+                        <li>Provide support for new comers by providing the essential furnitures. The current list of availble furniture list can be found <a href="">here</a></li>
+                    </ul>
+                    <br />
+                    Please contact <a href="maito:morawa@gmail.com">morawa@gmail.com</a>
+                    if you require more details regarding the member benefits 
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+
+                </div>
+
+
+
+            </div>
         </div>
+        <br class="clear" />
     </div>
-    <br class="clear" />
-</div>
-<input type="hidden" id="pageId" value="5" />
+    <input type="hidden" id="pageId" value="5" />
 </asp:Content>
 

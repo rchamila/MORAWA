@@ -175,6 +175,10 @@ ul.menu_item li a:hover {
 	width:71%;
 	float:right;	
 }
+.col_1_full {
+    width: 100%;
+    float: left;
+}
 #container {
 	min-height: 100%;
 }
