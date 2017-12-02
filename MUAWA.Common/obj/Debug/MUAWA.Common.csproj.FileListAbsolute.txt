@@ -8,3 +8,4 @@ D:\Git\MORAWA\MUAWA.Common\bin\Debug\MUAWA.Common.pdb
 D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.csproj.CoreCompileInputs.cache
 D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.dll
 D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.pdb
+D:\Git\MORAWA\MUAWA.Common\obj\Debug\MUAWA.Common.csprojResolveAssemblyReference.cache
