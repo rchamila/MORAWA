@@ -65,7 +65,7 @@ membership under sub rule (1)(a).</li>
                     <br />
                 </div>
             </div>
-            <div class="col_1_full">
+            <!--<div class="col_1_full">
                 <div class="b_wrapper">
                     <h3 class="title u_l_title">Member Benefits</h3>
                    
@@ -101,7 +101,7 @@ membership under sub rule (1)(a).</li>
 
 
 
-            </div>
+            </div>-->
         </div>
         <br class="clear" />
     </div>

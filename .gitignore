@@ -3,3 +3,5 @@
 ################################################################################
 
 /MUAWA.DataAccess/obj/Release
+/MUAWA.Common/obj/Release
+/MUAWA.Business/obj/Release
