@@ -40,9 +40,7 @@
                 <li>
                     <img src="App_Themes/Default/images/Banner/foodfair_SLSBS2016.jpg" alt="Civil" title="" id="wows1_26"   />
                 </li> 
-                  <li>
-                    <img src="App_Themes/Default/images/Banner/bbq-2017.png" alt="Civil" title="" id="wows1_26"   />
-                </li> 
+                 
 
               
             </ul>
