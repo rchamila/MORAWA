@@ -27,7 +27,7 @@
                     <ul class="headlines">
                         <li>Who are past students, current and former staff and those who had/have
 registered for a course of the University as verifiable through the registers
-of the University. </li>
+of the University.*** </li>
                         <li>those who were members of the group “The University of Moratuwa
 Alumni Association Western Australia” by the date of first AGM.</li>
 
@@ -56,7 +56,7 @@ and are spouse and children of;</p>
                         <li> A full member; or </li>
                         <li> A honorary member; or</li>
                         <li>A deceased member or a deceased person who was eligible for the full
-membership under sub rule (1)(a).</li>
+membership under sub rule *** above.</li>
 
                     </ul> <br />
                     The membership form can be downloaded from <a href="Membership_Application_Form_2017_v1.pdf">here</a> and email the filled form to  
