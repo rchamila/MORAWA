@@ -7,6 +7,9 @@
 
         <div class="slider">
             <ul class="bxslider">  
+                <li>
+                    <img src="App_Themes/Default/images/Banner/CareerDay2018.JPG"  title="Carrer Day 2018"/>
+                </li>
                  <li>
                     <img src="App_Themes/Default/images/Banner/New_Members_Welcome_2017.jpg"  title="New Members Welcome 2017"/>
                 </li>
@@ -37,10 +40,7 @@
                 <li>
                     <img src="App_Themes/Default/images/Banner/Weeding.jpg" alt="Civil" title="" id="wows1_26"  />
                 </li> 
-                <li>
-                    <img src="App_Themes/Default/images/Banner/foodfair_SLSBS2016.jpg" alt="Civil" title="" id="wows1_26"   />
-                </li> 
-                 
+              
 
               
             </ul>

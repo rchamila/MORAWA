@@ -5,3 +5,6 @@
 /MUAWA.DataAccess/obj/Release
 /MUAWA.Common/obj/Release
 /MUAWA.Business/obj/Release
+/MUAWA.Business/bin/Release
+/MUAWA.Common/bin/Release
+/MUAWA.DataAccess/bin/Release
