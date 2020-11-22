@@ -12,5 +12,6 @@ namespace MUAWA.Common.BusinessObjects
         public string ImageURLs { get; set; }
         public DateTime AlbumDate { get; set; }
         public string Description { get; set; }
+        public string Test { get; set;}
     }
 }
